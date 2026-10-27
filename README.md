@@ -85,62 +85,138 @@ class Rishikesh:
 
 ## 🏢 Experience
 
-<table>
-<tr>
-<td width="140" align="center"><b>May – Jul 2026</b></td>
-<td>
+<div align="center">
 
-### 🛰️ Computer Vision Research Intern · IIT Patna
-`InSAR` `SegFormer` `LLM` `Web App`
-- Proposed a **Modified SegFormer-B2** with multi-channel InSAR features, feature-pyramid fusion & hybrid loss for **landslide detection**
-- Designed an **Agentic Adaptive Training Framework** for multi-date temporal analysis
-- Built & deployed **AI-Landslide-Assessment-System** – an LLM-powered app generating explainable geological reports
-- 🏆 Won the **IMPACT Lab Best Intern** award
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#302b63','primaryTextColor':'#fff','lineColor':'#24c6dc'}}}%%
+timeline
+    title 🚀 My Journey So Far
+    May 2025 : 🕵️ Forgery Detection Intern : IIIT Vadodara
+    Jun 2025 : 🔐 Hardware Security Intern : CDAC Noida
+    Aug 2025 : 🤖 AI Intern : VaultofCodes
+    Dec 2025 : 📄 Published at ICVGIP : IIT Mandi
+    May 2026 : 🛰️ CV Research Intern : IIT Patna : 🏆 Best Intern
+```
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Dec 2025</b></td>
-<td>
+</div>
 
-### 📄 Published Researcher · ICVGIP 2025 Workshop, IIT Mandi
-`DenseNet201` `Forgery Detection`
-- Co-authored & presented *“Benchmarking Deep Learning Approaches for Splicing Forgery Detection in Document Image Preprocessing Pipelines”*
-- **99.42% accuracy · 0.99 AUC** with DenseNet201 on CASIA 2.0
+<br/>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Jun – Jul 2025</b></td>
-<td>
+<!-- ───────── IIT PATNA ───────── -->
+<div align="center">
 
-### 🔐 Hardware Security Intern · CyberGyan, CDAC Noida
-`Verilog` `Static Analysis`
-- Analysed encrypted Verilog HDL circuits across **30+ attack scenarios**; detected **20+ malicious patterns**
+<img src="https://img.shields.io/badge/📅_MAY_–_JUL_2026-24c6dc?style=for-the-badge&labelColor=0f0c29" />
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>May – Jul 2025</b></td>
-<td>
+### 🛰️ Computer Vision Research Intern
+<img src="https://img.shields.io/badge/IIT_Patna-IMPACT_Lab-302b63?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/🏆_Best_Intern_Award-FFD700?style=for-the-badge&labelColor=0f0c29&color=FFD700" />
 
-### 🕵️ Image Forgery Detection Research Intern · IIIT Vadodara
-`TensorFlow` `OpenCV`
-- Benchmarked **ResNet50, InceptionV3, DenseNet201** on 7,000 images across 5 forensic metrics
+<img src="https://img.shields.io/badge/InSAR-0f0c29?style=flat-square" />
+<img src="https://img.shields.io/badge/SegFormer--B2-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_App-24c6dc?style=flat-square" />
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>2025</b></td>
-<td>
+</div>
 
-### 🤖 AI Intern · VaultofCodes
-`Prompt Engineering` `GenAI`
-- Built a Python AI assistant for Q&A, summarization & content generation; chatbot hit **80% user satisfaction**
+> 🧠 **Modified SegFormer-B2** — multi-channel InSAR features, feature-pyramid fusion & hybrid loss for **landslide detection**
+>
+> 🔁 **Agentic Adaptive Training Framework** — temporal analysis across multi-date acquisitions
+>
+> 🌐 **AI-Landslide-Assessment-System** — LLM-powered app that turns model output into explainable geological reports
 
-</td>
-</tr>
-</table>
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
+
+<!-- ───────── ICVGIP ───────── -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/📅_DEC_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
+
+### 📄 Published Researcher
+<img src="https://img.shields.io/badge/ICVGIP_2025-IIT_Mandi-302b63?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Accuracy-99.42%25-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROC--AUC-0.99-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model-DenseNet201-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/CASIA_2.0-0f0c29?style=flat-square" />
+
+</div>
+
+> 📖 *"Benchmarking Deep Learning Approaches for Splicing Forgery Detection in Document Image Preprocessing Pipelines"*
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
+
+<!-- ───────── CDAC ───────── -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/📅_JUN_–_JUL_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
+
+### 🔐 Hardware Security Intern
+<img src="https://img.shields.io/badge/CyberGyan-CDAC_Noida-302b63?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Attack_Scenarios-30%2B-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Malicious_Patterns_Found-20%2B-critical?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Verilog_HDL-0f0c29?style=flat-square" />
+<img src="https://img.shields.io/badge/Static_Analysis-8A2BE2?style=flat-square" />
+
+</div>
+
+> 🛡️ Analysed **encrypted Verilog HDL circuits** to detect hidden malicious logic
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
+
+<!-- ───────── IIITV ───────── -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/📅_MAY_–_JUL_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
+
+### 🕵️ Image Forgery Detection Research Intern
+<img src="https://img.shields.io/badge/IIIT_Vadodara-Research-302b63?style=for-the-badge&logo=academia&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Images-7%2C000-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CNN_Models-3-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metrics-5-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ResNet50-0f0c29?style=flat-square" />
+<img src="https://img.shields.io/badge/InceptionV3-0f0c29?style=flat-square" />
+<img src="https://img.shields.io/badge/DenseNet201-0f0c29?style=flat-square" />
+
+</div>
+
+> 🔬 Benchmarked three CNN architectures via **transfer learning** — the work that became the ICVGIP paper
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
+
+<!-- ───────── VAULT ───────── -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/📅_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
+
+### 🤖 AI Intern
+<img src="https://img.shields.io/badge/VaultofCodes-Remote-302b63?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/User_Satisfaction-80%25-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Users-50%2B-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/GenAI-0f0c29?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</div>
+
+> 💬 Built an AI assistant for Q&A, summarization & content generation
 
 ---
 
