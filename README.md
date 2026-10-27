@@ -1,5 +1,5 @@
 <!-- ═══════════ HEADER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Rishikesh%20Gopal&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full%20Stack&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Rishikesh%20Gopal&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full%20Stack&descSize=20&descAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -9,9 +9,12 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/status.svg" alt="Open to Internships and Research" height="40"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=rishi12145&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/github/followers/rishi12145?label=Followers&style=for-the-badge&logo=github&color=302b63" alt="followers"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-24c6dc?style=for-the-badge&logo=target&logoColor=white" alt="open to work"/>
 
 <br/><br/>
 
@@ -20,13 +23,17 @@
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight%201600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-1450%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/neural.svg" alt="neural network animation" width="95%"/>
+
 </div>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
----
-
-## 🧑‍💻 About Me
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me" alt="🧑‍💻 About Me" />
+</div>
 
 ```python
 class Rishikesh:
@@ -47,17 +54,21 @@ class Rishikesh:
 
 <div align="center">
 
-| 🔭 Research | 🌐 Full Stack | 🧠 Problem Solving | 🎓 Recognition |
-|:---:|:---:|:---:|:---:|
-| 3 internships in CV/AI research | Real-time apps · 500+ users | 400+ problems solved | NTSE State Rank 25 |
+<img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/highlights.svg" alt="highlights" width="100%"/>
 
 </div>
 
----
-
-## 🛠️ Tech Stack
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="🛠️ Tech Stack" />
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/marquee.svg" alt="scrolling tech stack" width="100%"/>
+
+<br/>
 
 **🤖 AI / ML**<br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,sklearn&perline=6" /><br/><br/>
@@ -66,7 +77,7 @@ class Rishikesh:
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,mongodb,mysql&perline=8" /><br/><br/>
 
 **⚙️ Languages & Core**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,java&perline=6" /><br/><br/>
 
 **🧰 Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&perline=6" />
@@ -81,146 +92,74 @@ class Rishikesh:
 
 </details>
 
----
-
-## 🏢 Experience
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#302b63','primaryTextColor':'#fff','lineColor':'#24c6dc'}}}%%
-timeline
-    title 🚀 My Journey So Far
-    May 2025 : 🕵️ Forgery Detection Intern : IIIT Vadodara
-    Jun 2025 : 🔐 Hardware Security Intern : CDAC Noida
-    Aug 2025 : 🤖 AI Intern : VaultofCodes
-    Dec 2025 : 📄 Published at ICVGIP : IIT Mandi
-    May 2026 : 🛰️ CV Research Intern : IIT Patna : 🏆 Best Intern
-```
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%8F%A2+Experience" alt="🏢 Experience" />
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="140" align="center"><b>May – Jul 2026</b></td>
+<td>
 
-<!-- ───────── IIT PATNA ───────── -->
+### 🛰️ Computer Vision Research Intern · IIT Patna
+`InSAR` `SegFormer` `LLM` `Web App`
+- Proposed a **Modified SegFormer-B2** with multi-channel InSAR features, feature-pyramid fusion & hybrid loss for **landslide detection**
+- Designed an **Agentic Adaptive Training Framework** for multi-date temporal analysis
+- Built & deployed **AI-Landslide-Assessment-System** – an LLM-powered app generating explainable geological reports
+- 🏆 Won the **IMPACT Lab Best Intern** award
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Dec 2025</b></td>
+<td>
+
+### 📄 Published Researcher · ICVGIP 2025 Workshop, IIT Mandi
+`DenseNet201` `Forgery Detection`
+- Co-authored & presented *“Benchmarking Deep Learning Approaches for Splicing Forgery Detection in Document Image Preprocessing Pipelines”*
+- **99.42% accuracy · 0.99 AUC** with DenseNet201 on CASIA 2.0
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Jun – Jul 2025</b></td>
+<td>
+
+### 🔐 Hardware Security Intern · CyberGyan, CDAC Noida
+`Verilog` `Static Analysis`
+- Analysed encrypted Verilog HDL circuits across **30+ attack scenarios**; detected **20+ malicious patterns**
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>May – Jul 2025</b></td>
+<td>
+
+### 🕵️ Image Forgery Detection Research Intern · IIIT Vadodara
+`TensorFlow` `OpenCV`
+- Benchmarked **ResNet50, InceptionV3, DenseNet201** on 7,000 images across 5 forensic metrics
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>2025</b></td>
+<td>
+
+### 🤖 AI Intern · VaultofCodes
+`Prompt Engineering` `GenAI`
+- Built a Python AI assistant for Q&A, summarization & content generation; chatbot hit **80% user satisfaction**
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/📅_MAY_–_JUL_2026-24c6dc?style=for-the-badge&labelColor=0f0c29" />
-
-### 🛰️ Computer Vision Research Intern
-<img src="https://img.shields.io/badge/IIT_Patna-IMPACT_Lab-302b63?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/🏆_Best_Intern_Award-FFD700?style=for-the-badge&labelColor=0f0c29&color=FFD700" />
-
-<img src="https://img.shields.io/badge/InSAR-0f0c29?style=flat-square" />
-<img src="https://img.shields.io/badge/SegFormer--B2-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_App-24c6dc?style=flat-square" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%9A%80+Featured+Projects" alt="🚀 Featured Projects" />
 </div>
-
-> 🧠 **Modified SegFormer-B2** — multi-channel InSAR features, feature-pyramid fusion & hybrid loss for **landslide detection**
->
-> 🔁 **Agentic Adaptive Training Framework** — temporal analysis across multi-date acquisitions
->
-> 🌐 **AI-Landslide-Assessment-System** — LLM-powered app that turns model output into explainable geological reports
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
-
-<!-- ───────── ICVGIP ───────── -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/📅_DEC_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
-
-### 📄 Published Researcher
-<img src="https://img.shields.io/badge/ICVGIP_2025-IIT_Mandi-302b63?style=for-the-badge&logo=readthedocs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Accuracy-99.42%25-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ROC--AUC-0.99-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model-DenseNet201-orange?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/CASIA_2.0-0f0c29?style=flat-square" />
-
-</div>
-
-> 📖 *"Benchmarking Deep Learning Approaches for Splicing Forgery Detection in Document Image Preprocessing Pipelines"*
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
-
-<!-- ───────── CDAC ───────── -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/📅_JUN_–_JUL_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
-
-### 🔐 Hardware Security Intern
-<img src="https://img.shields.io/badge/CyberGyan-CDAC_Noida-302b63?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Attack_Scenarios-30%2B-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Malicious_Patterns_Found-20%2B-critical?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Verilog_HDL-0f0c29?style=flat-square" />
-<img src="https://img.shields.io/badge/Static_Analysis-8A2BE2?style=flat-square" />
-
-</div>
-
-> 🛡️ Analysed **encrypted Verilog HDL circuits** to detect hidden malicious logic
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
-
-<!-- ───────── IIITV ───────── -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/📅_MAY_–_JUL_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
-
-### 🕵️ Image Forgery Detection Research Intern
-<img src="https://img.shields.io/badge/IIIT_Vadodara-Research-302b63?style=for-the-badge&logo=academia&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Images-7%2C000-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CNN_Models-3-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Metrics-5-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/ResNet50-0f0c29?style=flat-square" />
-<img src="https://img.shields.io/badge/InceptionV3-0f0c29?style=flat-square" />
-<img src="https://img.shields.io/badge/DenseNet201-0f0c29?style=flat-square" />
-
-</div>
-
-> 🔬 Benchmarked three CNN architectures via **transfer learning** — the work that became the ICVGIP paper
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&section=header" width="35%"/></div>
-
-<!-- ───────── VAULT ───────── -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/📅_2025-24c6dc?style=for-the-badge&labelColor=0f0c29" />
-
-### 🤖 AI Intern
-<img src="https://img.shields.io/badge/VaultofCodes-Remote-302b63?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/User_Satisfaction-80%25-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Users-50%2B-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/GenAI-0f0c29?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</div>
-
-> 💬 Built an AI assistant for Q&A, summarization & content generation
-
----
-
-## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -270,7 +209,7 @@ Verilog-based DDR5 controller with read/write/refresh & command scheduling. **50
 
 ResNet50 encoder-decoder with MSE + SSIM loss. **94.6% accuracy · 0.9888 ROC-AUC** on HyperKvasir, with heatmap localization.
 
-`PyTorch/TensorFlow` `Deep Learning` `Computer Vision`
+`Deep Learning` `Computer Vision` `Anomaly Detection`
 
 </td>
 </tr>
@@ -301,9 +240,11 @@ Two-mode raylib app with inheritance & polymorphism, real-time WPM/accuracy, dif
 </table>
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
-## 📊 GitHub Analytics
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%93%8A+GitHub+Analytics" alt="📊 GitHub Analytics" />
+</div>
 
 <div align="center">
 
@@ -320,9 +261,11 @@ Two-mode raylib app with inheritance & polymorphism, real-time WPM/accuracy, dif
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
-## 🏆 Achievements
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%8F%86+Achievements" alt="🏆 Achievements" />
+</div>
 
 <div align="center">
 
@@ -334,17 +277,15 @@ Two-mode raylib app with inheritance & polymorphism, real-time WPM/accuracy, dif
 | ⚔️ | **LeetCode Knight** (1600+) · CodeChef (1450+) · GFG 1683 (Top 29%) · 400+ problems |
 | 💼 | **Secretary, StockOps** — Finance Club, IIIT Vadodara |
 
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=rishi12145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
-## 🐍 Contribution Snake
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%90%8D+Contribution+Snake" alt="🐍 Contribution Snake" />
+</div>
 
 <div align="center">
 
@@ -356,9 +297,11 @@ Two-mode raylib app with inheritance & polymorphism, real-time WPM/accuracy, dif
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/rishi12145/rishi12145/main/assets/divider.svg" width="100%" alt="divider"/></div>
 
-## 🤝 Let's Connect
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=100000&color=24C6DC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%A4%9D+Let%27s+Connect" alt="🤝 Let's Connect" />
+</div>
 
 <div align="center">
 
@@ -369,8 +312,12 @@ I'm always up for conversations about **AI research, computer vision, and buildi
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=600&lines=%22Make+it+work.+Make+it+right.+Make+it+fast.%22;Thanks+for+stopping+by!+%E2%AD%90+a+repo+if+you+liked+something" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=24c6dc&bg_color=0f0c29" width="80%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;%E2%AD%90+a+repo+if+you+liked+something;Let's+build+something+great+together+%F0%9F%9A%80" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%"/>
